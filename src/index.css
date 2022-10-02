@@ -1,0 +1,108 @@
+@import-normalize;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  height: 100%;
+  background: linear-gradient(45deg, #e73c7e, #3f5efb);
+  background-size: 200% 200%;
+  animation: gradient 10s ease infinite;
+
+  background-attachment: fixed;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 20% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 20% 50%;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-y: scroll;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+button {
+  cursor: pointer;
+}
+
+.formLabel {
+  text-align: center;
+  margin-bottom: 0px;
+
+  font-size: 17px;
+  font-weight: 500;
+
+  color: #fff;
+  opacity: 0.7;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.marginBottom {
+  margin-bottom: 20px;
+}
+
+.errorSize {
+  font-size: 30px;
+}
+
+.box {
+  height: 100%;
+  max-width: 900px;
+
+  z-index: 1;
+  background: rgba(255, 255, 255, 0.3);
+  padding: 3em;
+  border-radius: 20px;
+  border-left: 1px solid rgba(255, 255, 255, 0.3);
+  border-top: 1px solid rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(10px);
+  box-shadow: 20px 20px 40px -6px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.mainWidth {
+  width: 500px;
+}
+
+@media screen and (max-width: 540px) {
+  .box {
+    padding: 10px;
+  }
+
+  .mainWidth {
+    width: auto;
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "home_greeting": "Welcome to your personal phonebook!",
+
+  "btn_phonebook": "My Phonebook",
+  "btn_home": "Home",
+
+  "header_greeting": "Hello, ",
+
+  "btn_logout": "Log out",
+  "btn_singup": "Sing up",
+  "btn_login": "Log in",
+
+  "main_phonebook": "Phonebook",
+  "main_addContactMessage": "added to your contacts",
+  "main_uniqueContactNameMessage": "is already in contacts",
+  "main_fetchErrorMessage": "Error",
+  "main_contactNotFound": "Contact not found",
+
+  "main_labelInputName": "Name",
+  "main_placeholderInputName": "Alex",
+  "main_titleInputName": "Name may contain only letters, apostrophe, dash and spaces. For example Adrian, Jacob Mercer, Charles de Batz de Castelmore d'Artagnan",
+
+  "main_labelInputPhone": "Phone",
+  "main_placeholderInputPhone": "410-371-6599",
+  "main_titleInputPhone": "Phone number must be digits and can contain spaces, dashes, parentheses and can start with +",
+
+  "main_btnAddContact": "Add Contact",
+
+  "main_labelInputFilter": "Find contacts by name",
+  "main_placeholderInputFilter": "Alex",
+  "main_titleInputFilter": "Find contacts by name",
+
+  "login_tittle": "Login in Phonebook",
+
+  "login_labelInputEmail": "Email",
+  "login_placeholderInputEmail": "alex@gmail.com",
+  "login_titleInputEmail": "Enter your email",
+
+  "login_labelInputPassword": "Password",
+  "login_placeholderInputPassword": "hdsk23das",
+  "login_titleInputPassword": "Enter your password minimum 7 length",
+
+  "singup_tittle": "Registration",
+
+  "singup_labelInputName": "Name",
+  "singup_placeholderInputName": "Alex",
+  "singup_titleInputName": "Name may contain only letters, apostrophe, dash and spaces. For example Adrian, Jacob Mercer, Charles de Batz de Castelmore d'Artagnan",
+
+  "singup_labelInputEmail": "Email",
+  "singup_placeholderInputEmail": "alex@gmail.com",
+  "singup_titleInputEmail": "Enter your email",
+
+  "singup_labelInputPassword": "Password",
+  "singup_placeholderInputPassword": "hdsk23das",
+  "singup_titleInputPassword": "Enter your password minimum 7 length",
+
+  "demo_title": "What can be done here?",
+  "demo_warningTitle": "Warning!",
+  "demo_createAccountTitle": "Create your own account",
+  "demo_createAccountText": " You can create your personal account! It will be stored in the database and will be accessible from any device.",
+  "demo_createAccountGif": "https://i.ibb.co/Npg9CLD/2022-10-02-10-03-08.gif",
+  "demo_createAccountGifAlt": "gif video how to register",
+  "demo_createAccountWarning": " This is an educational project, the database is cleaned within a month. Also, please don't use your real passwords, because f#ck it",
+  
+  "demo_crudContactTitle": "Add or delete contacts",
+  "demo_crudContactText": "You can or and remove contacts from your phonebook!",
+  "demo_crudContactGif": "https://i.ibb.co/Vpv7yBr/2022-10-02-10-04-16.gif",
+  "demo_crudContactGifAlt": "gif video how to add or delete contacts",
+
+  "demo_findContactTitle": "Search contacts by name",
+  "demo_findContactText": "Tired of scrolling down for 10 minutes to find Elon Musk? You can now search for contacts by name! And it will take just 3.1415926 milliseconds!",
+    "demo_findContactGif": "https://i.ibb.co/X7z1mjn/2022-10-02-10-11-32.gif",
+  "demo_findContactAlt": "gif video how to search for contacts",
+  "demo_findContactWarning": " You can spend the saved time on writing to the author how cool he is",
+
+  "demo_switchLanguageTitle": "Switch language",
+  "demo_switchLanguageText": "Still don't know Ukrainian? What a pity..... But we made a language switch just for you!",
+  "demo_switchLanguageGif": "https://i.ibb.co/n80wxm1/2022-10-02-10-14-46.gif",
+  "demo_switchLanguageGifAlt": "gif video how to change language",
+  "demo_switchLanguageSecTitle": "Currently available languages:",
+
+  "demo_enjoyDesignTitle": "Enjoy the design",
+  "demo_enjoyDesignText": "Oh, how iridescent the background is... Oh, how beautifully the buttons stick... Oh, what a cool spinner",
+
+  "demo_thankAuthorTitle": "Thank the author",
+  "demo_thankAuthorText": "  Well, if you've already poked here so confidently, you should also write me"
+}
