@@ -4,7 +4,7 @@
 
 ## Технології - React, JavaScript, HTML/CSS (Redux-toolkit, react-router, rtk-query, API, Axios...)
 
-![Демонстрація](path)
+![Демонстрація](https://github.com/dankozz1t/Phonebook/blob/main/public/demo.gif)
 
 - Подивись на [**Веб-додаток**](<https://dankozz1t.github.io/Phonebook/>)
 
