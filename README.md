@@ -1,9 +1,9 @@
 **Read in other language: [Українська/Ukrainian](README.ua.md)**
 
 # Web application  - "[**Phonebook**](<https://dankozz1t.github.io/Phonebook/>)"
-## STACK - React, JavaScript, HTML/CSS (Redux-toolkit, react-router, rtk-query, API, Axios...)
+### STACK - React, JavaScript, HTML/CSS (Redux-toolkit, react-router, rtk-query, API, Axios...)
 
-![Demonstration](path)
+![Demonstration](https://i.ibb.co/Npg9CLD/2022-10-02-10-03-08.gif)
 
 - Look at [**Web application**](<https://dankozz1t.github.io/Phonebook/>)
 
