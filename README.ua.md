@@ -1,14 +1,15 @@
-**Read in other language: [Українська/Ukrainian](README.ua.md)**
+**Читати іншою мовою: [Англійська/English](README.md)**
 
-# Web application  - "[**Phonebook**](<https://dankozz1t.github.io/Phonebook/>)"
-## STACK - React, JavaScript, HTML/CSS (Redux-toolkit, react-router, rtk-query, API, Axios...)
+# Веб-додаток  - "[**Телефонна книга**](<https://dankozz1t.github.io/Phonebook/>)"
 
-![Demonstration](path)
+## Технології - React, JavaScript, HTML/CSS (Redux-toolkit, react-router, rtk-query, API, Axios...)
 
-- Look at [**Web application**](<https://dankozz1t.github.io/Phonebook/>)
+![Демонстрація](path)
+
+- Подивись на [**Веб-додаток**](<https://dankozz1t.github.io/Phonebook/>)
 
 ---
-### Through this work I learned
+### Завдяки цій роботі я навчився
 > * React
 >> virtual DOM, jsx, components/pure-components, propTypes, react-bootstrap <br/>
 >> inline styles, css modules, state, events, forms, lifecycle, http-requests  <br/>
@@ -37,8 +38,8 @@
 > * adaptive and responsive layout (markup, graphics)  <br/><br/>
 
 ---
-# My contacts
-[![Alex-Taylor Danko](https://img.shields.io/badge/Alex_Taylor_Danko-purple?style=for-the-badge&logo=Contacts&logoColor=white)](#)
+# Мої контакти
+[![Алекс-Тейлор Данько](https://img.shields.io/badge/Алекс_Тейлор_Данько-purple?style=for-the-badge&logo=Contacts&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dankozz1/)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/dankozz1t)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/dankozz1)
