@@ -1,7 +1,7 @@
 **Read in other language: [Українська/Ukrainian](README.ua.md)**
 
 # Web application  - "[**Phonebook**](<https://dankozz1t.github.io/Phonebook/>)"
-### STACK - React, JavaScript, HTML/CSS (Redux-toolkit, react-router, rtk-query, API, Axios...)
+### STACK - React, JavaScript, HTML/CSS (Redux-toolkit, react-router, rtk-query, react-bootstrap, API, Axios...)
 
 ![Demonstration](https://github.com/dankozz1t/Phonebook/blob/main/public/demo.gif)
 
@@ -34,7 +34,7 @@
 >> image types, gradient, shadow, raster/vector graphics, svg sprites <br/>
 >> positioned elements, animations, transitions, forms, link js <br/>
 > * BEM  <br/>
-> * adaptive and responsive layout (markup, graphics)  <br/><br/>
+> * adaptive layout <br/><br/>
 
 ---
 # My contacts
