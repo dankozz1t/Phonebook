@@ -34,7 +34,7 @@
 >> image types, gradient, shadow, raster/vector graphics, svg sprites <br/>
 >> positioned elements, animations, transitions, forms, link js <br/>
 > * BEM  <br/>
-> * adaptive layout <br/><br/>
+> * adaptive and responsive layout <br/><br/>
 
 ---
 # My contacts
